@@ -31,6 +31,16 @@ li{
     padding-left: 10px;
 }
 
+#container{
+    max-width: 992px;   
+}
+
+#cat{
+    display: block;
+    width: 50%;
+    margin-left: 17%;
+}
+
 #ref-contain{
     font-size: 12px;
 }
