@@ -9,11 +9,12 @@ h1{
 h2{
     background-color: lightgray;
     padding: 0px 3px;
-    font-size: 16px;
+    font-size: 17px;
 }
 
 h3{
     margin-bottom: 0px;
+    font-size: 16px;
     
 }
 
@@ -45,7 +46,7 @@ li{
 
 #line{
     border-bottom: 1px solid black;
-    padding-bottom: 5px;
+    padding-bottom: 4px;
 }
 
 .sup-size{
